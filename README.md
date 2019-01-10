@@ -9,7 +9,7 @@ Create a portal [GUI] in which user can upload excel files or a CSV file which c
 ## Why is this particular topic has been chosen?
 This topic is chosen because Prim's algorithm is significantly faster in the limit when you've got a really dense graph with many more edges than vertices. So working on this project helped us in understanding the Prim algorithm in a better way by making its user interface and along with that helped us in learning R which is a Data science language in this project to make a user interface so that project can be scaled in the future.
 
-# Objective and Scope of the Project
+## Objective and Scope of the Project
 
 ### Objective
 Our objective is to find the minimum cost spanning tree using a Prim’s Algorithm.
